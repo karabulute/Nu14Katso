@@ -1,0 +1,26 @@
+{
+    "name": "KATSO",
+    "author": "NU14 Digitale Lösungen",
+    "homepage": "https://nu14.com.tr/",
+    "description": {
+        "de-DE": "KATSO - a Modern Theme für Shopware 6",
+        "en-GB": "KATSO - a Modern Theme for Shopware 6"
+    },
+    "views": [
+        "@Storefront",
+        "@Plugins",
+        "@Nu14Katso"
+    ],
+    "style": [
+        "app/storefront/src/scss/overrides.scss",
+        "@Storefront",
+        "app/storefront/src/scss/base.scss"
+    ],
+    "script": [
+        "@Storefront",
+        "app/storefront/dist/storefront/js/nu14-katso.js"
+    ],
+    "asset": [
+        "app/storefront/src/assets"
+    ]
+}

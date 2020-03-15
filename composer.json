@@ -1,0 +1,36 @@
+{
+    "name": "swag/theme-skeleton",
+    "description": "Theme skeleton plugin",
+    "type": "shopware-platform-plugin",
+    "version": "v1.0.0",
+    "license": "Apache License 2.0",
+    "support": {
+        "email": "dijital@nu14.com.tr"
+    },
+    "authors": [
+        {
+            "name": "Emre Karabulut",
+            "email": "emre.karabulut@nu14.com.tr",
+            "homepage": "https://nu14.com.tr",
+            "role": "Senior Developer"
+        },
+        {
+            "name": "Deniz Tuna",
+            "email": "deniz.tuna@nu14.com.tr",
+            "homepage": "https://nu14.com.tr",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Nu14Katso\\": "src/"
+        }
+    },
+    "extra": {
+        "shopware-plugin-class": "Nu14Katso\\Nu14Katso",
+        "label": {
+            "de-DE": "KATSO - a Modern Theme für Shopware 6",
+            "en-GB": "KATSO - a Modern Theme for Shopware 6"
+        }
+    }
+}
