@@ -1,6 +1,9 @@
 # KATSO
 a Modern Theme for **Shopware 6**
 
+## Requirements
+Shopware 6
+
 ## Installation
 - refresh plugins list
 ```bash
