@@ -2,6 +2,7 @@
     "name": "KATSO",
     "author": "NU14 Digitale Lösungen",
     "homepage": "https://nu14.com.tr/",
+    "previewMedia": "app/storefront/src/assets/Nu14Katso-theme-preview.jpg",
     "description": {
         "de-DE": "KATSO - a Modern Theme für Shopware 6",
         "en-GB": "KATSO - a Modern Theme for Shopware 6"
